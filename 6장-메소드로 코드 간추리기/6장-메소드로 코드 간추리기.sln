@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "메모페도", "메모페도\메모페도.csproj", "{AD7492B0-07AD-481C-9CE7-9FF697BFCE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "엑스트라 유틸리티2", "엑스트라 유틸리티2\엑스트라 유틸리티2.csproj", "{F8844072-1D64-4AD8-BEFF-6EB8E74C4123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7492B0-07AD-481C-9CE7-9FF697BFCE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7492B0-07AD-481C-9CE7-9FF697BFCE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7492B0-07AD-481C-9CE7-9FF697BFCE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7492B0-07AD-481C-9CE7-9FF697BFCE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8844072-1D64-4AD8-BEFF-6EB8E74C4123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8844072-1D64-4AD8-BEFF-6EB8E74C4123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8844072-1D64-4AD8-BEFF-6EB8E74C4123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8844072-1D64-4AD8-BEFF-6EB8E74C4123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D67F02E3-689E-4E3F-8989-B28AA05FB7C8}
+	EndGlobalSection
+EndGlobal
